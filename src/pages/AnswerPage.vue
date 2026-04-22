@@ -133,7 +133,7 @@ onMounted(() => {
               id="userInput"
               v-model="inputRef"
               type="text"
-              placeholder="Type your question here..."
+              placeholder="Type your question here... E.g. what is memory"
               class="flex-1 bg-transparent outline-none text-slate-700"
             />
 
