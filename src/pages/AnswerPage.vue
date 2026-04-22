@@ -87,7 +87,7 @@ onMounted(() => {
             <div
               class="bg-white border border-gray-200 rounded-2xl px-5 py-3 max-w-lg text-slate-700"
             >
-              Hello 👋 Ask me anything about Computer Science and I will explain it in Yorùbá.
+              Hello 👋 Ask me CS questions and get answers in Yorùbá.
             </div>
           </div>
 
